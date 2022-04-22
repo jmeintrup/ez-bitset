@@ -3,6 +3,11 @@ name = "ez-bitset"
 version = "0.1.0"
 edition = "2021"
 authors = ["Johannes Meintrup", "Manuel Penschuck"]
+homepage = "https://github.com/jmeintrup/ez-bitset/"
+repository = "https://github.com/jmeintrup/ez-bitset/"
+readme = "README.md"
+license = "MIT"
+keywords = ["bits", "bitvec", "datastructure", "bitset"]
 
 # See more keys and their definitions at https://doc.rust-lang.org/cargo/reference/manifest.html
 
